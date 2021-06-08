@@ -4,6 +4,9 @@
 package Lab1;
 
 import org.junit.Test;
+
+import com.Lab1.Library;
+
 import static org.junit.Assert.*;
 
 public class LibraryTest {

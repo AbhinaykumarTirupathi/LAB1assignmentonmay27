@@ -1,4 +1,4 @@
-package Lab3;
+package com.Lab3;
 import java.util.Scanner;
 public class Lab3Ex3 {
 

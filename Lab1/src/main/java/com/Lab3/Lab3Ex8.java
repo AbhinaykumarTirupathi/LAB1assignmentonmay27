@@ -1,7 +1,7 @@
-package Lab3;
+package com.Lab3;
 
 import java.util.Scanner;
-
+//positive string or not
 public class Lab3Ex8 {
 	
 

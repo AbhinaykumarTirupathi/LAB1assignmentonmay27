@@ -1,4 +1,4 @@
-package Lab1;
+package com.Lab1;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

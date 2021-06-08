@@ -1,5 +1,5 @@
 
-package Lab3;
+package com.Lab3;
 import java.io.*;
 import java.time.LocalDate;
 import java.time.Period;

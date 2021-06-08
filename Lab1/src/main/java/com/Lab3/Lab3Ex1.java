@@ -1,9 +1,9 @@
-package Lab3;
+package com.Lab3;
 import java.util.*;
 public class Lab3Ex1 {
 
 	
-		            public static void main(String args[])
+		           public static void main(String args[])
 		            {
 		                        Scanner scr=new Scanner(System.in);
 		System.out.println("\nEnter sequence of integers with space b/w them and press enter : ");
